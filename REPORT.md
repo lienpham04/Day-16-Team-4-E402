@@ -1,7 +1,7 @@
 # Day 16 Submission — Team 4
 
 ## Members
-- Xói (Nguyễn Bình Thành) - 2A202600138 — Product Manager (Team Lead)
+- Nguyễn Bình Thành - 2A202600138 — Product Manager (Team Lead)
 - Phạm Hoàng Kim Liên - 2A202600260 — User Researcher
 - Lê Đức Thanh - 2A202600093 — System Architect / AI Engineer
 - Lê Nguyễn Thanh Bình - 2A202600447 — Go-to-Market Strategist
